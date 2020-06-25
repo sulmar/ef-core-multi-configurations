@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\EFCoreMulti.Infrastucture\EFCoreMulti.Infrastucture.csproj" />
     <ProjectReference Include="..\EFCoreMulti.Models\EFCoreMulti.Models.csproj" />
   </ItemGroup>
 

@@ -11,7 +11,7 @@ namespace EFCoreMulti.Infrastucture
 
         public MyContext(DbContextOptions options) : base(options)
         {
-            configurationsFromAssembly = "EFCoreMulti.Configurations.B";
+            configurationsFromAssembly = "EFCoreMulti.Configurations.A";
         }
 
         public DbSet<Customer> Customers { get; set; }
