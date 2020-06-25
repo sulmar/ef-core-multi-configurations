@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EFCoreMulti.ConsoleClient": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "ProductionA"
+      }
+    }
+  }
+}
